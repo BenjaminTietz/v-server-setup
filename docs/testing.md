@@ -12,7 +12,7 @@
   ```
   This should fail.
 
-### NGINX Validation
+#### NGINX Validation
 
 - Check if your server is reachable via browser.
 - Validate configuration:
