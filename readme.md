@@ -30,7 +30,7 @@ Follow these steps to quickly set up the V-Server:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/v-server-setup.git
+   git clone https://github.com/BenjaminTietz/v-server-setup.git
    cd v-server-setup
    ```
 2. **Generate an SSH key (if not already created) and copy it to the server:**
@@ -115,10 +115,15 @@ Once the server is set up, you can customize it with:
     ssh -T git@github.com
     ```
 - **Adding New Services**
+
   - Install additional packages:
+
     ```sh
     sudo apt install <package-name>
     ```
+
+    - Recommended package:
+    - `certbot` for SSL certificate management with Let's Encrypt
 
 ## Additional Resources
 
