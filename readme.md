@@ -130,3 +130,18 @@ Once the server is set up, you can customize it with:
 - 📄 [V-Server Setup Checklist (PDF)](docs/v-server-checklist.pdf)
 - [NGINX Documentation](https://nginx.org/en/docs/)
 - [GitHub SSH Key Setup Guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
+  ## Contact
+
+### 👤 Personal
+
+- [Portfolio](https://benjamin-tietz.com/)
+- [Drop me a mail](mailto:mail@benjamin-tietz.com)
+
+### 🌍 Social
+
+- [LinkedIn](https://www.linkedin.com/in/benjamin-tietz/)
+
+### 💻 Project Repository
+
+- [GitHub Repository](https://github.com/BenjaminTietz/v-server-setup)
